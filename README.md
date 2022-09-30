@@ -1,4 +1,3 @@
-# practice-projects-front
 # upsns-front
 
 ## Project setup
